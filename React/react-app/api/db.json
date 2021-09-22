@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "unique1",
+      "name": "Özkan Parlakkılıç",
+      "salary": "5000",
+      "department": "Bilişim"
+    },
+    {
+      "id": "unique2",
+      "name": "Ekrem Parlakkılıç",
+      "salary": "4000",
+      "department": "Bilişim"
+    },
+    {
+      "id": "unique3",
+      "name": "Muhammed Talha Baysal",
+      "salary": "3000",
+      "department": "Yazılım"
+    },
+    {
+      "name": "Erdem Koyuncu",
+      "department": "Hukuk",
+      "salary": "7000",
+      "id": "qJ5lj9p"
+    },
+    {
+      "name": "Onur Koyuncu",
+      "salary": "3500",
+      "department": "Servis",
+      "id": "LR3Ss13"
+    },
+    {
+      "name": "Servet Yılmaz",
+      "salary": "6000",
+      "department": "Usta",
+      "id": "v8PL-DR"
+    }
+  ]
+}
